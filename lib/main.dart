@@ -78,7 +78,7 @@ class LargeChild extends StatelessWidget {
                             TextStyle(fontSize: 60, color: Color(0xFF8591B0)),
                         children: [
                           TextSpan(
-                              text: "Britu",
+                              text: "Mito",
                               style: TextStyle(
                                   fontSize: 60,
                                   fontWeight: FontWeight.bold,
